@@ -1,0 +1,23 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}
+
+
+.my-2{
+    /* margin: 26px 0; */
+    padding: 7px 23px;
+    background-color: lightcyan;
+    margin: 26px 496px;
+    border-radius: 39px;
+    border: 1px solid green;
+}
+
+.my-1{
+    margin: 6px 0;
+}
+.text-center{
+    text-align: center;
+}
